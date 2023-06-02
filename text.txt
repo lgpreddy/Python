@@ -1,0 +1,2 @@
+A few fancy things are going on in this file, so let’s break it down real quickly:
+Lines 1-3 uses argv to get a filename. Next we have line 5, where we use a new command open. Right now, run pydoc open and read the instructions. Notice how, like your own
